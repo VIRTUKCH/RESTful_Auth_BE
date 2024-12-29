@@ -32,4 +32,4 @@ pip install django-oauth-toolkit
 pip install python-decouple
 ```
 
-## 6. 교재에 등장하는 
+## 6. 교재에 등장하는 의존성
