@@ -3,6 +3,7 @@
 
 ### Customized by chkim
 /my_env
+/auth/auth/settings.py
 
 ### Django ###
 *.log
