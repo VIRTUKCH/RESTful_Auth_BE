@@ -14,7 +14,7 @@ source my_env/bin/activate
 
 ## 2. RESTful API 위한 라이브러리 설치
 ```bash
-pip install django djangorestframework
+pip install django djangorestframework==3.13.1
 ```
 
 ## 3. 인증 및 인가 위한 라이브러리 설치
